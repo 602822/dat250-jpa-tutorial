@@ -13,11 +13,11 @@ It worked when i changed The Collection to a Set.
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/9e647cba-36b1-413b-8a8c-1551bda9b30b">
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/80b4b935-0515-4a7e-8d56-77f309e87cd5">
 
-I used the property name="hibernate.show_sql" value="true"/ tag. To see the sql statements executed in the background.
+I used the *property name="hibernate.show_sql" value="true"/* tag. To see the sql statements executed in the background.
 
 The database being used is H2. Which is a lightweight SQL database that run in memory and store data in files
-property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/
-property name="hibernate.connection.driver_class" value="org.h2.Driver"/
+*property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/*
+*property name="hibernate.connection.driver_class" value="org.h2.Driver"/*
 
 
 
