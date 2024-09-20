@@ -2,6 +2,8 @@ package no.hvl.dat250.jpa.tutorial.creditcards;
 
 import jakarta.persistence.*;
 
+import java.util.Objects;
+
 @Entity
 public class Pincode {
     @Id
@@ -12,13 +14,27 @@ public class Pincode {
         return id;
     }
 
+    private String code;
+
+    private Integer count;
+
     public String getCode() {
-        // TODO: implement method!
-        return null;
+        return code;
     }
 
     public Integer getCount() {
-        // TODO: implement method!
-        return null;
+        return count;
     }
+
+
+    public void setCode(String code) {
+        this.code = code;
+    }
+
+    public void setCount(Integer count) {
+        this.count = count;
+    }
+
+
+
 }
