@@ -1,4 +1,4 @@
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/b4e4bde0-ccb2-4513-b706-b889e1687557">## Technical problems
+## Technical problems
 I first got the problems "cannot use Customer.getName()" because customer is null
 That was because I forgot to create instances of the objects
 
@@ -9,11 +9,14 @@ It worked when i changed The Collection to a Set.
 
 ## The tables being created
 
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/9994b79c-7f04-48f0-b3ce-583f232ea009">
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/23bb2a65-8c5d-4659-87bd-d48fe9cfc83f">
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/087f5ca3-84a4-4607-b42a-82a07cf7e161">
-<img width="313" alt="image" src="https://github.com/user-attachments/assets/1a2d576d-72e2-4b01-be67-72f35dc05a17">
-<img width="322" alt="image" src="https://github.com/user-attachments/assets/b43911f6-561c-4633-bac6-0f9412d3db4b">
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/36b4f4bb-476c-45af-b0ce-b0095de1311b">
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/ce7a0e74-7d08-4ac2-8e1f-8610929d9f47">
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/9e647cba-36b1-413b-8a8c-1551bda9b30b">
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/80b4b935-0515-4a7e-8d56-77f309e87cd5">
+
+
+
+
 
 
 
